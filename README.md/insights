@@ -1,0 +1,58 @@
+--> Objective
+Build an interactive Power BI dashboard to analyze sales performance across different dimensions (region, category, shipping mode, and more) and implement forecasting using time series visualizations.
+
+> Key Insights from the Dashboard
+1. Sales & Profit KPIs
+  Total Sales: ₹1.56M
+  Total Quantity: 22K units
+  Total Profit: ₹175K
+  Avg. Delivery Days: 4
+
+2. Sales by Payment Mode
+  - COD leads at 43%, followed by Online 35% and Card 22%.
+  - Suggests customers prefer cash on delivery — useful for logistics & inventory planning.
+
+3. Sales by Region
+  - West (33%) and East (29%) contribute the most.
+  - South is underperforming → May need marketing focus.
+
+4.Sales by Segment
+  - Consumer Segment: 48% (dominant) 
+  - Corporate: 33%
+  - Home Office: Only 19% → Opportunity for upselling.
+
+5. Sales & Profit by Month
+  - Sales peak during November & December (likely due to holidays).
+  - Profit drops mid-year, indicating cost challenges.
+
+6. Sales by Shipping Mode
+  - Standard Class: Most used (₹0.50M)
+  - Same-Day shipping used least → Could explore premium delivery incentives.
+
+7. Sales by State
+  - High performance in California, New York, and Texas.  
+  - Low sales in Wyoming, West Virginia — need regional campaigns.
+
+8. Forecasting:
+  - Used time series forecasting on sales from 2019 to 2021.
+  - Future 15-day forecast suggests a steady growth trend.
+  - Helps inventory teams plan demand early.
+
+--> Tools Used
+  - Power BI Desktop
+  - Excel (Data Source)
+  - Power Query Editor
+  - Forecasting Visual
+  - DAX for KPIs
+
+--> Use Cases
+  - E-commerce performance analysis
+  - Sales forecasting for stock planning
+  - Business presentation for stakeholders
+
+--> Learnings
+  - Applied time series forecasting in Power BI
+  - Created multi-layered visuals with donut, line, bar, and map charts
+  - Used slicers to segment by region and category
+  - Understood consumer behavior and payment preferences
+
