@@ -14,11 +14,11 @@ To analyze sales performance, profit trends, customer behavior, and shipping per
 
 4.Category and Sub-category level breakdowns
 
-4.Time-series sales & profit trends
+5.Time-series sales & profit trends
 
-5.Forecasting using historical order data
+6.Forecasting using historical order data
 
-6.A second dashboard page forecasts future sales for the next 15 days using time-series analytics, helping businesses manage demand and inventory more effectively.
+7.A second dashboard page forecasts future sales for the next 15 days using time-series analytics, helping businesses manage demand and inventory more effectively.
 
 <> Key Features:
   - Interactive slicers for Region, Segment, and Category filtering
