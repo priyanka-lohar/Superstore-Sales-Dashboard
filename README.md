@@ -1,1 +1,54 @@
-# Superstore-Sales-Dashboard
+<> Goal:
+To analyze sales performance, profit trends, customer behavior, and shipping performance of a retail superstore using Power BI. The project also incorporates sales forecasting to enable data-driven business decisions.
+
+<> Description:
+--> This project leverages Power BI to transform raw Superstore data into an insightful, interactive dashboard for retail business stakeholders.
+
+--> The dashboard provides a 360° view of:
+
+1.Sales KPIs (Sales, Profit, Quantity, Delivery Days)
+
+2.Regional and Segment-wise performance
+
+3.Shipping method impact
+
+4.Category and Sub-category level breakdowns
+
+4.Time-series sales & profit trends
+
+5.Forecasting using historical order data
+
+6.A second dashboard page forecasts future sales for the next 15 days using time-series analytics, helping businesses manage demand and inventory more effectively.
+
+<> Key Features:
+  - Interactive slicers for Region, Segment, and Category filtering
+  
+  - Dynamic time-based visuals (Monthly trend of Sales and Profit)
+  
+  - Sales vs Profit Comparison at State and Category levels
+  
+  - Forecasting visualization using Power BI’s built-in analytics
+  
+  - KPI cards summarizing key metrics like Sales, Quantity, and Avg. Delivery Days
+  
+  - Map-based insights for profit and sales by State
+  
+  <> Dataset Details:
+   - Source: Superstore Sales Dataset (Excel)
+    
+   - Records: ~10,000+
+    
+   - Time Span: 2018–2021  
+    
+   - Columns used: Order Date, Sales, Profit, Ship Mode, Category, Sub-category, Segment, Region, State, etc.
+
+<> Business Impact:
+   This dashboard can be used by:
+    
+  - Sales Managers for performance monitoring
+  
+  -  Marketing Teams for regional targeting
+
+Logistics Teams for analyzing delivery performance
+
+Executives to forecast and plan sales strategies
